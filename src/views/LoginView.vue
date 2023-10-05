@@ -2,10 +2,10 @@
 import { defineComponent } from 'vue'
 
 export default defineComponent({
-  name: 'AuthLayout'
+  name: 'LoginView'
 })
 </script>
 
 <template>
-  <RouterView />
+  <VBtn> Test </VBtn>
 </template>
