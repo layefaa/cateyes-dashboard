@@ -6,6 +6,4 @@ export default defineComponent({
 })
 </script>
 
-<template>
-  <VBtn> Test </VBtn>
-</template>
+<template></template>
