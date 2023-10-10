@@ -6,4 +6,6 @@ export default defineComponent({
 })
 </script>
 
-<template></template>
+<template>
+  <p>NAme</p>
+</template>
